@@ -7,8 +7,11 @@ By Tech Founder
 
 Discussed Topics:
 i) How to install node.js in windows
+
 ii) How to install mongodb in windows
+
 iii) How to install robo3T in windows
+
 
 Videos of this Node JS and MongoDB tutorial series:
 1) Installation - https://youtu.be/pqVo0OnA2No
